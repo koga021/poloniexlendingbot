@@ -141,15 +141,6 @@ maxtolend = 0
 maxpercenttolend = 0
 maxtolendrate = 0
 
-[XRP]
-mindailyrate = 0.00010
-maxactiveamount =1
-maxtolend = 0
-maxpercenttolend = 0
-maxtolendrate = 0
-
-
-
 [notifications]
 notify_new_loans = True
 notify_tx_coins = True
